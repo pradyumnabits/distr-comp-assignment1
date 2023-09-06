@@ -6,7 +6,7 @@ This example demonstrates a simple distributed computing scenario using python.
 ## Set the environment 
 1. Open a terminal.
 2. Navigate to the root directory.
-  Install the required dependencies i.e. pip, FastAPI, uvicorn if not yet available on server
+  Install the required dependencies if not yet available on server
 sh ./set-env.sh
 
 
