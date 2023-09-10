@@ -15,6 +15,6 @@ fi
 # source /path/to/your/virtualenv/bin/activate
 
 # Run the FastAPI application using Uvicorn
-uvicorn server1:app --reload --host 0.0.0.0 --port $PORT
+uvicorn server2:app --reload --host 0.0.0.0 --port $PORT
 
 
