@@ -51,6 +51,3 @@ python ./client.py
 
 
 Note : Please make sure that both Server 1 and Server 2 are running before using the client.
-
-
-ssh-keygen -t rsa -b 4096 -C "2022mt03596@wilp.bits-pilani.ac.in"
