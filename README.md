@@ -1,6 +1,6 @@
 # Distributed Computing - Assignment1
 
-This example demonstrates a simple distributed computing scenario using python and FastAPI.
+This example demonstrates a simple distributed computing scenario using python.
 
 ## Set the environment 
 1. Open a terminal.
