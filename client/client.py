@@ -3,7 +3,7 @@ import os
 import time
 
 def download_file(file_name):
-    server_url = "http://localhost:8000"  # Replace with the actual server URL
+    server_url = "http://localhost:8000"  # Replace with the actual server1 URL
 
     # Specify the file_name as a query parameter in the URL
     params = {"file_name": file_name}
